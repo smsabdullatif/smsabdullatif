@@ -8,12 +8,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,py,docker,kubernetes,unity&perline=10" width="480" alt="JavaScript, TypeScript, React, Next.js, Node.js, NestJS, Python, Docker, Kubernetes, and Unity" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/smsabdullatif?tab=overview">
-    <img src="https://streak-stats.demolab.com/?user=smsabdullatif&hide_current_streak=true&hide_longest_streak=true&card_width=320&card_height=170&hide_border=true&disable_animations=true" width="320" alt="Total GitHub contributions" />
-  </a>
-</p>
-
 I work on the whole application: the web interface, the mobile app, and the backend behind them. My work covers APIs, database integration, authentication and authorization, automated tests, and CI/CD.
 
 I use React and Next.js for the web, Node.js and NestJS for backend services, and React Native alongside native mobile languages. I also work with Docker, Kubernetes, WebGL, and Unity.
