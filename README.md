@@ -16,7 +16,7 @@ I use React and Next.js for the web, Node.js and NestJS for backend services, an
 
 | Area | Technologies & practices |
 | :--- | :--- |
-| **Web applications** | HTML, JavaScript, TypeScript, React, Next.js |
+| **Web applications** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
 | **Backend services** | JavaScript, TypeScript, Node.js, NestJS, PHP, Ruby |
 | **APIs & security** | REST APIs, authentication, authorization |
 | **Databases** | PostgreSQL, MySQL, MongoDB |
