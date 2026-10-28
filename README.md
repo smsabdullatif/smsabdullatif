@@ -27,7 +27,3 @@ I use React and Next.js for the web, Node.js and NestJS for backend services, an
 | **Infrastructure** | Docker, Kubernetes |
 | **Delivery & operations** | Git, Linux, CI/CD, GitHub Actions |
 | **Programming languages** | JavaScript, TypeScript, Python, PHP, Ruby, Kotlin, Java, Swift |
-
-### My work on GitHub
-
-Most of my day-to-day work lives in private repositories. My contribution history includes backend implementation and pull request reviews across application codebases.
