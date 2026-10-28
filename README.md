@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abdullatif</h1>
 
-<!--
-**smsabdullatif/smsabdullatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Full-stack Developer · Web & Mobile</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,docker,kubernetes&perline=8" alt="JavaScript, TypeScript, React, Next.js, Node.js, NestJS, Docker, and Kubernetes" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web and mobile applications, working across the frontend, backend, and the infrastructure behind them. My work spans React and Next.js interfaces, Node.js and NestJS services, and mobile apps built with React Native and native tools.
+
+### What I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| **Web** | JavaScript, TypeScript, React, Next.js |
+| **Backend** | Node.js, NestJS, PHP, Ruby |
+| **Mobile** | React Native, Expo, React Native CLI, Kotlin, Java, Swift |
+| **Infrastructure** | Docker, Kubernetes |
+
+### A note about my work
+
+Most of my day-to-day work lives in private repositories. This profile is a public introduction to what I do and the tools I use.
