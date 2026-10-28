@@ -14,9 +14,11 @@ I build web and mobile applications, working across the frontend, backend, and t
 
 | Area | Technologies |
 | :--- | :--- |
-| **Web** | JavaScript, TypeScript, React, Next.js |
-| **Backend** | Node.js, NestJS, PHP, Ruby |
-| **Mobile** | React Native, Expo, React Native CLI, Kotlin, Java, Swift |
+| **Languages** | JavaScript, TypeScript, Python, PHP, Ruby, Kotlin, Java, Swift |
+| **Web** | React, Next.js |
+| **Backend** | Node.js, NestJS |
+| **Mobile** | React Native, Expo, React Native CLI |
+| **Graphics & Game Development** | WebGL, Unity |
 | **Infrastructure** | Docker, Kubernetes |
 
 ### A note about my work
